@@ -78,7 +78,7 @@ Internal Host	Remote Host	Packets	Bytes
 The communication with 192.168.4.1 was later identified as DNS traffic.
 The external conversations primarily involved standard web traffic.
 
-![Protocol Hierarchy](images/images/02-ipv4-conversations.png)
+![Protocol Hierarchy](images/02-ipv4-conversations.png)
  
 ## 5. DNS Investigation
 
